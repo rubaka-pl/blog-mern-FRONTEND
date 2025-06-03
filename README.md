@@ -7,7 +7,7 @@ This is the frontend for a simple blog platform built with the MERN stack (Mongo
 
 ## Live Demo
 
-[https://blog-mern-frontend-tt4b.vercel.app/](https://blog-mern-frontend-tt4b.vercel.app/)
+[https://blog-mern-frontend-zeta.vercel.app/](https://blog-mern-frontend-zeta.vercel.app/)
 
 ## Technologies Used
 
