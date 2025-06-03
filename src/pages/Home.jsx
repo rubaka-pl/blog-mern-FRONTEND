@@ -92,7 +92,8 @@ export const Home = () => {
                   imageUrl={
                     obj.imageUrl ||
                     "https://www.pbs.org/wnet/nature/files/2014/10/Monkey-Main-1280x720.jpg"
-                  } user={obj.user}
+                  }
+                  user={obj.user || { fullName: 'Anonymous' }}
                   createdAt={new Date(obj.createdAt).toLocaleDateString('en-US', {
                     day: 'numeric',
                     month: 'long',
